@@ -1,0 +1,8 @@
+RELEASE 1.2 di DungeonsCLI
+
+Changelog e aggiornamenti dalla versione release 1.0
+
+-Introdotte struct per una migliore gestione delle variabili
+-Rimosse funzionalitá inutili
+-Introdotto beta switch, sblocca le funzioni in sviluppo nel gioco
+
